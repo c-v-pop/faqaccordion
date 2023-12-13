@@ -560,10 +560,6 @@ video {
   visibility: hidden;
 }
 
-.absolute {
-  position: absolute;
-}
-
 .-z-10 {
   z-index: -10;
 }
